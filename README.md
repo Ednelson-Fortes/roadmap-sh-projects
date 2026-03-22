@@ -7,13 +7,11 @@ Este repositório contém a minha jornada de desafios práticos do [roadmap.sh](
 ## 📂 Projetos Incluídos
 
 ### 1. [Single-Page CV](./Single-Page_CV)
-[Click aqui para ver a URL do projeto](https://roadmap.sh/projects/single-page-cv.)
+[Click aqui para ver a URL do projeto](https://roadmap.sh/projects/single-page-cv)
 
 Um currículo profissional estruturado com foco em **HTML5 Semântico** e boas práticas de **SEO**.
 - **Tecnologias:** HTML5, Meta Tags (SEO/Open Graph), Acessibilidade.
 - **Destaque:** Estrutura otimizada para motores de busca e compartilhamento em redes sociais.
-
----
 
 ### 2. [Basic HTML Website](./Basic-HTML-Website)
 [Click aqui para ver a URL do projeto](https://roadmap.sh/projects/basic-html-website)
