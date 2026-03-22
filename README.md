@@ -20,6 +20,7 @@ Um site profissional estruturado com **HTML5 Semântico** e boas prática de **S
 - **Tecnologias:** HTML5, Meta Tags (SEO/Open Graph), Acessibilidade.
 - **Destaque:** Estrutura otimizada para motores de busca e compartilhamento em redes sociais. Criação de várias páginas no site. Utilização de <forms> e <table>
 
+
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
