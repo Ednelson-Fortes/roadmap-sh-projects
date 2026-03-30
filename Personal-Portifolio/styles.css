@@ -11,6 +11,10 @@
 body {
     font-family: sans-serif;
     background-color: #ddd;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    margin: 0;
 }
 
 /* Header Styles */
@@ -55,6 +59,7 @@ header article:last-child {
 
 /* Main Styles */
 main {
+    flex: 1; /* make main take up remaining space */
     padding: 20px 5%;
 }
 
@@ -84,8 +89,6 @@ footer {
     padding: 20px 0;
     border-top: 2px solid black;
     text-align: center;
-    position: fixed;
-    bottom: 0;
     width: 100%;
 }
 
