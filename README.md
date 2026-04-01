@@ -18,7 +18,7 @@ Um currículo profissional estruturado com foco em **HTML5 Semântico** e boas p
 
 Um site profissional estruturado com **HTML5 Semântico** e boas prática de **SEO**.
 - **Tecnologias:** HTML5, Meta Tags (SEO/Open Graph), Acessibilidade.
-- **Destaque:** Estrutura otimizada para motores de busca e compartilhamento em redes sociais. Criação de várias páginas no site. Utilização de <forms> e <table>
+- **Destaque:** Estrutura otimizada para motores de busca e navegação entre múltiplas páginas. Criação de várias páginas no site. Utilização de ` <forms> ` e ` <table> `.
 
 ### 3. [Personal Portifolio](./Personal-Portifolio)
 [Click aqui para ver a URL do projeto](https://roadmap.sh/projects/portfolio-website)
