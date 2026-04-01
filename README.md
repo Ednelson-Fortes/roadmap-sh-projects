@@ -20,6 +20,13 @@ Um site profissional estruturado com **HTML5 Semântico** e boas prática de **S
 - **Tecnologias:** HTML5, Meta Tags (SEO/Open Graph), Acessibilidade.
 - **Destaque:** Estrutura otimizada para motores de busca e compartilhamento em redes sociais. Criação de várias páginas no site. Utilização de <forms> e <table>
 
+### 3. [Personal Portifolio](./Personal-Portifolio)
+[Click aqui para ver a URL do projeto](https://roadmap.sh/projects/portfolio-website)
+
+Desenvolvimento de uma vitrine digital personalizada para consolidar projetos e habilidades, aplicando conceitos avançados de estilização e layout responsivo.
+
+- **Tecnologias:** HTML5, CSS3 (Flexbox/Grid), Design Responsivo.
+- **Destaque:** Implementação de interface adaptável para dispositivos móveis, foco em experiência do usuário (UX) e integração estética dos projetos anteriores.
 
 ---
 
