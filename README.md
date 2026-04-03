@@ -28,10 +28,18 @@ Desenvolvimento de uma vitrine digital personalizada para consolidar projetos e 
 - **Tecnologias:** HTML5, CSS3 (Flexbox/Grid), Design Responsivo.
 - **Destaque:** Implementação de interface adaptável para dispositivos móveis, foco em experiência do usuário (UX) e integração estética dos projetos anteriores.
 
+### 4. [Image grid Layout](./Image-grid-layout)
+[Click aqui para ver a URL do projeto](https://roadmap.sh/projects/image-grid)
+
+Criação de uma galeria de imagens dinâmica que utiliza algoritmos avançados de posicionamento para organizar conteúdos de diferentes proporções.
+
+- **Tecnologias:** HTML5, CSS3 (Grid Layout avançado).
+- **Destaque:** Implementação do grid-auto-flow: dense e manipulação de grid-row: span para criar um layout de mosaico (Masonry) totalmente automático e responsivo.
+
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
-- **Linguagens:** HTML5 (CSS3, JavaScript, Node.js em breve).
+- **Linguagens:** HTML5, CSS3(JavaScript, Node.js em breve).
 - **Controle de Versão:** Git & GitHub.
 - **Ambiente:** VS Code.
 
